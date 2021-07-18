@@ -1,1 +1,0 @@
-https://katmandooo.github.io/rsschool-cv/cv
