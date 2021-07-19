@@ -18,4 +18,14 @@ Hello! My name is Kate. I am beginner in programming, but I have a great desire 
 *Figma
 *Adobe Photoshop
 
-## Experience
+## Experience:
+At the moment I am studying at RS school on the preparatory courses "Stage0 for the Frontend JS course"
+
+# Education:
+* Higher education in sociology
+* courses in accounting
+* online courses in web development at Tilda
+
+# Languages:
+* Russian *native*
+* English *B1-B2*
