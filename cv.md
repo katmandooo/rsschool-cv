@@ -14,9 +14,9 @@ Hello! My name is Kate. I am beginner in programming, but I have a great desire 
 
 ## Skills:
 * HTML
-*CSS
-*Figma
-*Adobe Photoshop
+* CSS
+* Figma
+* Adobe Photoshop
 
 ## Experience:
 At the moment I am studying at RS school on the preparatory courses "Stage0 for the Frontend JS course"
